@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-This project was created by "Devaki Patil'.
+This project was created by "Devaki Patil".
